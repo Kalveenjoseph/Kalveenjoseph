@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="mailto:kalveen.joseph@gmail.com"><img src="https://img.shields.io/badge/-kalveen.joseph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0e27" /></a>
+<a href="mailto:kalveenjoseph8@gmail.com"><img src="https://img.shields.io/badge/-kalveen.joseph%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0e27" /></a>
 <img src="https://img.shields.io/badge/-Atlanta,_GA-EC4899?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0a0e27" />
 <img src="https://img.shields.io/badge/-9_Years-3B82F6?style=flat-square&labelColor=0a0e27" />
 <img src="https://img.shields.io/badge/-Healthcare_Data-22C55E?style=flat-square&labelColor=0a0e27" />
